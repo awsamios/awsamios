@@ -43,60 +43,26 @@ export const en = {
     skills: {
         icon: 'skills',
         title: 'Skills',
-        mobile: 'MOBILE-END',
-        frontEnd: 'FRONT-END',
-        devOps: 'DEVOPS',
+        mobile: 'MOBILE',
         android: {
-            name: 'Android',
+            name: 'iOS',
             icon: 'android'
         },
         kotlin: {
-            name: 'Kotlin',
+            name: 'Swift',
             icon: 'kotlin'
         },
         java: {
-            name: 'Java',
+            name: 'Objective-C',
             icon: 'java'
         },
         rn: {
-            name: 'React Native',
+            name: 'React-Native',
             icon: 'react'
         },
         react: {
             name: 'React JS',
             icon: 'react'
-        },
-        javascript: {
-            name: 'JavaScript',
-            icon: 'javascript'
-        },
-        css: {
-            name: 'Css',
-            icon: 'css'
-        },
-        html: {
-            name: 'Html',
-            icon: 'html'
-        },
-        webpack: {
-            name: 'Webpack',
-            icon: 'webpack'
-        },
-        ruby: {
-            name: 'Ruby',
-            icon: 'ruby'
-        },
-        git: {
-            name: 'Git',
-            icon: 'git'
-        },
-        heroku: {
-            name: 'Heroku',
-            icon: 'heroku'
-        },
-        jekyll: {
-            name: 'Jekyll',
-            icon: 'jekyll'
         },
         jenkins: {
             name: 'Jenkins',
