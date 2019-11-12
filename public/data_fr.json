@@ -1,0 +1,242 @@
+{
+  "layer": {
+    "work": [
+      "work-1",
+      "work-2"
+    ],
+    "project": [
+      "project-1",
+      "project-2",
+      "project-3",
+      "project-4",
+      "project-5"
+    ],
+    "education": [
+      "education-1",
+      "education-2"
+    ],
+    "skills": [
+      "mobile",
+      "front",
+      "devops"
+    ],
+    "mobile": [
+      [
+        "skills-1",
+        "skills-2",
+        "skills-3"
+      ],
+      [
+        "skills-4",
+        "skills-5",
+        "skills-6"
+      ]
+    ],
+    "front": [
+      [
+        "skills-7",
+        "skills-8",
+        "skills-9"
+      ]
+    ],
+    "devops": [
+      "skills-10",
+      "skills-11",
+      "skills-12"
+    ]
+  },
+  "content": {
+    "work-1": {
+      "startYear": "Aujourd'hui",
+      "endYear": "2,2018",
+      "company": "Paris VISEO Technologies,France",
+      "title": "Développeur Mobile",
+      "description": "Responsable du développement de l'application Android par Kotlin et Java. Mon travail consiste principalement à créer une application mobile extrêmement efficace et réactive pour nos clients."
+    },
+    "work-2": {
+      "startYear": "2,2016",
+      "endYear": "9,2015",
+      "company": "Paris SIPCOM Society,France",
+      "title": ".Net Développeur Stage",
+      "description": "Je suis principalement responsable du site Web officiel de la société, du fonctionnement quotidien de la page, de l'optimisation de la gestion de la page d'arrière-plan. Le travail est très saturé, mais pour gagner du temps et apprendre beaucoup de nouveaux frameworks et bibliothèques, JQuery a une certaine compréhension. Durant ce stage, j'ai amélioré mes compétences, notamment en développement front-end et back-end."
+    },
+    "education-1": {
+      "year": "2012-2013",
+      "college": "Univertité Paris Diderot, France",
+      "title": "Diplôme de Master",
+      "branch": "Système Réseau Internet (SRI)",
+      "description": "- Réseaux - Modélisation et spécification - Développement logiciel - Méthodes de test logiciels et protocoles - Bases de données - Architectures des Systèmes d'informations"
+    },
+    "education-2": {
+      "year": "2007-2012",
+      "college": "Ecole Supérieure d’Informatique, Algérie",
+      "title": "Diplôme d'ingénieur",
+      "branch": "Système Informatique",
+      "description": "- Algorithmique - Réseaux - Système, Structure machine, base de données, "
+
+    },
+    "project-1": {
+      "startYear": "A ce jour",
+      "endYear": "02-2018",
+      "title": "Mazars BIM",
+      "description": "Développement d’une application collaborative cross-plateforme (React-Native) destinée aux salariés Mazars Groupe pour partager leurs idées, qui seront soumises aux votes et appréciation dans le but de les mettre en œuvre. Liens : App Store et Google Play  ",
+      "playerRole": [
+        "- Implémentation from scratch des appli iOS et Android",
+        "- Automatisation des livraisons",
+        "- Choix techniques et méthodologie de travail en Lean Startup"
+      ],
+      "client_ico": "mazars",
+      "role": "Développeur React-Native",
+      "techstack": [
+        "React-Native",
+        "Redux",
+        "react-navigation",
+        "Fastlane",
+        "Gradle",
+        "Custom Native View",
+        "OneSignal",
+        "Flex",
+        "High Order Component (HOC)"
+      ],
+      "link": "https://play.google.com/store/apps/details?id=com.carrefour.czam.android&hl=fr"
+    },
+    "project-2": {
+      "startYear": "A ce jour",
+      "endYear": "02-2018",
+      "title": "Mazars Count",
+      "description": "Application iOS destinées aux consultants Mazars Groupe, dans le cadre de la certification de l’état financier des entreprises en procédant à des inventaires réglementés. ",
+      "playerRole": [
+        "- Prise en charge des choix techniques (architecture, faisabilité, intégration, Lib et SDK utilisés)",
+        "- Développement de l’application de bout en bout",
+        "- Mise en place d’une usine logicielle (PIC)",
+        "- Rédaction de documentation technique"
+      ],
+      "client_ico": "mazars",
+      "role": "Développeur iOS confirmé",
+      "techstack": [
+        "Swift 4.2",
+        "Clean Swift (VIP)",
+        "programmation orientée protocole",
+        "Alamofire",
+        "Codable",
+        "Injection de dépendances",
+        "RealmSwift",
+        "Crashlytics",
+        "FacbookLogin",
+        "AssetsLibrary",
+        "Fastlane",
+        "Jenkins",
+        "BitBucket",
+        "programmation fonctionnelle"
+      ],
+      "link": "https://play.google.com/store/apps/details?id=com.carrefour.czam.android&hl=fr"
+    },
+    "project-3": {
+      "startYear": "2,2018",
+      "endYear": "9,2017",
+      "title": "Carrefour MarketPay",
+      "description": "Une application et une personne Web aident la personne à réaliser un nouveau paiement par interaction afin de créer de la valeur et d'entretenir les relations avec les clients.",
+      "client_ico": "carrefour",
+      "role": "Développeur Mobile and front",
+      "techstack": [
+        "React",
+        "React-Native",
+        "Rest API",
+        "Jest"
+      ],
+      "playerRole": [
+        "- Développement de l’application React Native",
+        "- Développement de web responsive React JS",
+        "- API Rest utilisée pour l'extraction des données utilisateur"
+      ],
+      "link": ""
+    },
+    "project-4": {
+      "startYear": "9,2017",
+      "endYear": "9,2017",
+      "title": "BEL-Sharing Cities",
+      "client_ico": "bel",
+      "description": "Réalisation d’une application de gestion des stocks et des ventes de produit fromager à\ndestination des pays en voies de développement.",
+      "role": "Développeur Mobile",
+      "techstack": [
+        "React Native",
+        "Redux",
+        "Node"
+      ],
+      "playerRole": [
+        "- Développement React Native (Front End Mobile)",
+        "- Développement backend en utilisant Node.js"
+      ],
+      "link": ""
+    },
+    "project-5": {
+      "startYear": "9,2017",
+      "endYear": "2,2017",
+      "title": "Jooboot",
+      "client_ico": "viseo",
+      "description": "Jooboot est le projet le plus important sur lequel j’ai eu la chance de travailler pendant mon stage au sein du groupe VISEO. En effet, nous ne sommes plus dans la réalisation de POC, mais dans le développement d’une application native, mobile et tablette. Jooboot est un projet permettant de consulter et de publier des offres. Ce projet, afin de maximiser l’impact de l’offre, utilise Twitter en tant que base de données (DBOT DataBase On Twitter).",
+      "role": "Développeur Mobile",
+      "techstack": [
+        "Kotlin",
+        "RxKotlin",
+        "Redux",
+        "Mapbox",
+        "Realm"
+      ],
+      "link": "",
+      "playerRole": [
+        "- Développement Kotlin from scratch",
+        "- Maintenance de l’application",
+        "- Développement de nouveaux écrans & utilisation de l’API de Service Twitter"
+      ]
+    },
+    "skills-1": {
+      "name": "Android",
+      "icon": "android"
+    },
+    "skills-2": {
+      "name": "Kotlin",
+      "icon": "kotlin"
+    },
+    "skills-3": {
+      "name": "Java",
+      "icon": "java"
+    },
+    "skills-4": {
+      "name": "React Native",
+      "icon": "react"
+    },
+    "skills-5": {
+      "name": "React JS",
+      "icon": "react"
+    },
+    "skills-6": {
+      "name": "JavaScript",
+      "icon": "javascript"
+    },
+    "skills-7": {
+      "name": "Css",
+      "icon": "css"
+    },
+    "skills-8": {
+      "name": "Html",
+      "icon": "html"
+    },
+    "skills-9": {
+      "name": "Ruby",
+      "icon": "ruby"
+    },
+    "skills-10": {
+      "name": "Git",
+      "icon": "git"
+    },
+    "skills-11": {
+      "name": "Heroku",
+      "icon": "heroku"
+    },
+    "skills-12": {
+      "name": "Jekyll",
+      "icon": "jekyll"
+    }
+  }
+}
