@@ -36,6 +36,7 @@ class App extends Component {
     };
 
     async componentDidMount() {
+        console.log("This is the version Prod");
         this.setState({ loading: true });
         const language = getLanguage();
         const { error, response } = await getResumeData(language);
