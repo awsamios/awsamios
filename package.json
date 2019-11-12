@@ -1,11 +1,11 @@
 {
   "name": "resume",
-  "homepage": "https://underwindfall.github.io/resume",
+  "homepage": "https://awsamios.github.io/",
   "version": "0.1.0",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git@github.com:underwindfall/resume.git"
+    "url": "git@github.com:awsamios/awsamios.github.io.git"
   },
   "license": "MIT",
   "dependencies": {
