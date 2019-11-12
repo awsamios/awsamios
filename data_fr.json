@@ -1,0 +1,120 @@
+{
+  "layer": {
+    "project": [
+      "project-1",
+      "project-2"
+    ],
+    "education": [
+      "education-1",
+      "education-2"
+    ],
+    "skills": [
+      "mobile"
+    ],
+    "mobile": [
+      [
+        "skills-1",
+        "skills-2",
+        "skills-3"
+      ],
+      [
+        "skills-4",
+        "skills-5"
+      ]
+    ]
+  },
+  "content": {
+    "education-1": {
+      "year": "2012-2013",
+      "college": "Univertité Paris Diderot, France",
+      "title": "Diplôme de Master",
+      "branch": "Système Réseau Internet (SRI)",
+      "description": "- Réseaux - Modélisation et spécification - Développement logiciel - Méthodes de test logiciels et protocoles - Bases de données - Architectures des Systèmes d'informations"
+    },
+    "education-2": {
+      "year": "2007-2012",
+      "college": "Ecole Supérieure d’Informatique, Algérie",
+      "title": "Diplôme d'ingénieur",
+      "branch": "Système Informatique",
+      "description": "- Algorithmique - Réseaux - Système, Structure machine, base de données, "
+
+    },
+    "project-1": {
+      "startYear": "2019",
+      "endYear": "",
+      "title": "Mazars BIM",
+      "description": "Développement d’une application collaborative cross-plateforme (React-Native) destinée aux salariés Mazars Groupe pour partager leurs idées, qui seront soumises aux votes et appréciation dans le but de les mettre en œuvre. Liens : App Store et Google Play  ",
+      "playerRole": [
+        "- Implémentation from scratch des appli iOS et Android",
+        "- Automatisation des livraisons",
+        "- Choix techniques et méthodologie de travail en Lean Startup"
+      ],
+      "client_ico": "mazars",
+      "role": "Développeur React-Native (06 mois)",
+      "techstack": [
+        "React-Native",
+        "Redux",
+        "react-navigation",
+        "Fastlane",
+        "Gradle",
+        "Custom Native View",
+        "OneSignal",
+        "Flex",
+        "High Order Component (HOC)"
+      ],
+      "link": "https://play.google.com/store/apps/details?id=com.carrefour.czam.android&hl=fr"
+    },
+    "project-2": {
+      "startYear": "2018",
+      "endYear": "2019",
+      "title": "Mazars Count",
+      "description": "Application iOS destinées aux consultants Mazars Groupe, dans le cadre de la certification de l’état financier des entreprises en procédant à des inventaires réglementés. ",
+      "playerRole": [
+        "- Prise en charge des choix techniques (architecture, faisabilité, intégration, Lib et SDK utilisés)",
+        "- Développement de l’application de bout en bout",
+        "- Mise en place d’une usine logicielle (PIC)",
+        "- Rédaction de documentation technique"
+      ],
+      "client_ico": "mazars",
+      "role": "Développeur iOS confirmé (08 mois)",
+      "techstack": [
+        "Swift 4.2",
+        "Clean Swift (VIP)",
+        "programmation orientée protocole",
+        "Alamofire",
+        "Codable",
+        "Injection de dépendances",
+        "RealmSwift",
+        "Crashlytics",
+        "FacbookLogin",
+        "AssetsLibrary",
+        "Fastlane",
+        "Jenkins",
+        "BitBucket",
+        "programmation fonctionnelle"
+      ],
+      "link": "https://play.google.com/store/apps/details?id=com.carrefour.czam.android&hl=fr"
+    }
+    ,
+    "skills-1": {
+      "name": "iOS",
+      "icon": "android"
+    },
+    "skills-2": {
+      "name": "Swift",
+      "icon": "kotlin"
+    },
+    "skills-3": {
+      "name": "Objective-C",
+      "icon": "java"
+    },
+    "skills-4": {
+      "name": "React-Native",
+      "icon": "react"
+    },
+    "skills-5": {
+      "name": "Git",
+      "icon": "git"
+    }
+  }
+}
